@@ -2,3 +2,6 @@
 data/
 .test.pdf
 .title.pdf
+data.*
+test.pdf
+title.pdf
